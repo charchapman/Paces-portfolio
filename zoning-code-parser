@@ -1,0 +1,8 @@
+zoning-code-parser /
+├── README.md
+├── data/
+│   └── sample_zoning.txt
+├── notebooks/
+│   └── zoning_parser.ipynb
+└── output/
+    └── zoning_summary.csv
