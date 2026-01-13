@@ -12,6 +12,6 @@ into structured data to support early-stage renewable energy site diligence.
 **Tools:** Python, Pandas  
 **Focus:** Zoning, permitting, policy-to-data automation
 
-**[Zoning Code Parser for Renewable Energy Permitting](https://github.com/[Zoning Code Parser for Renewable Energy Permitting](zoning-code-parser)/zoning-code-parser)
+**[Zoning Code Parser for Renewable Energy Permitting](https://github.com/) [Zoning Code Parser for Renewable Energy Permitting](zoning-code-parser)/zoning-code-parser)
 
 
