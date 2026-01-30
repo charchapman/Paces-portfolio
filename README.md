@@ -97,7 +97,7 @@ Applied a systematic debugging workflow:
 
 ---
 
-### 🔄 ArcGIS Online to QGIS Data Pipeline
+### 🔄 ArcGIS Online Conversion to QGIS Data 
 
 **Challenge:** Paces uses QGIS, but many municipalities and utilities publish spatial data exclusively through ArcGIS Online. Accessing this data requires understanding REST service structures and format conversion.
 
@@ -176,7 +176,7 @@ I'm building skills that bridge **domain expertise** (policy, permitting, energy
 
 ## 📫 Let's Connect
 
-- 💼 **LinkedIn:** [your-linkedin-url]
+- 💼 **LinkedIn:** www.linkedin.com/in/charlotteychapman
 - 📧 **Email:** charliechapman@paces.com
 - 🌐 **Notion Portfolio:** [Link to detailed case studies]
 
