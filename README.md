@@ -1,6 +1,6 @@
 # Paces Portfolio
 
-Hi! I'm **Charlie**, a Permitting and Policy Research Intern with the Data Operations team at [Paces](https://www.paces.com/). 
+Hi! I'm **Charlie**, a Permitting and Policy Researcher with the Data Operations team at [Paces](https://www.paces.com/). 
 
 This portfolio demonstrates how I'm translating zoning regulations, permitting requirements, and land-use data into **structured, scalable datasets** that support early-stage renewable energy project diligence—work that directly contributes to faster, more efficient site screening.
 
