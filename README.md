@@ -177,7 +177,7 @@ I'm building skills that bridge **domain expertise** (policy, permitting, energy
 ## 📫 Let's Connect
 
 - 💼 **LinkedIn:** www.linkedin.com/in/charlotteychapman
-- 📧 **Email:** charliechapman@paces.com
+- 📧 **Email:** chacychapman@gmail.com
 - 🌐 **Notion Portfolio:**[(https://bedecked-walker-bc6.notion.site/Charlotte-Chapman-Portfolio-2e78a32c4bd780e3b142ce464902738e?pvs=74)]
 ---
 
